@@ -148,14 +148,6 @@ python rekognition_image_labels.py
 
 ---
 
-## Best Practices
-
-* Never commit AWS access keys to GitHub
-* Use least-privilege IAM policies in production
-* Delete unused AWS resources to avoid charges
-
----
-
 ## Clean-Up (Important)
 
 After testing:
@@ -188,13 +180,4 @@ A Python-based AWS project that detects objects in S3 images using Amazon Rekogn
 Computer Engineering Graduate
 AWS & Data Engineering Enthusiast
 
----
 
-If you want, I can also:
-
-* Optimize this README for **recruiters**
-* Add **architecture diagram section**
-* Create **requirements.txt**
-* Help with **GitHub repo naming & description**
-
-Just tell me 👍
